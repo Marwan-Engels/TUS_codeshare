@@ -22,4 +22,10 @@ Software in this repo requires the following:
 - SimNIBS v4.1.0
 
 # TUS Safety
-To determine safety, always adhere to the most recent ITRUSST guidelines.
+ITRUSST sets the standards for TUS. Make sure to familiarize yourself with their work.
+To determine safety, make sure to always adhere to the most recent ITRUSST guidelines.
+
+Important literature:
+- ITRUSST consensus on Biophysical Safety: https://doi.org/10.1016/j.brs.2025.10.007
+- ITRUSST on Standardized Reporting: https://doi.org/10.1016/j.brs.2024.04.013
+- ITRUSST Practical Guide for TUS: https://doi.org/10.1016/j.clinph.2025.01.004
