@@ -1,17 +1,16 @@
 # TUS_codeshare# CtrlTUS_scripts
 ## Neuromodulation of Control Beliefs - scripts
-Author: Marwan Engels
-Date: 30/06/2026
-Labs: Motivational & Cognitive Control lab & Cognitive Neuromodulation Lab
-      Donders Institute, Nijmegen.
+- Author: Marwan Engels
+- Date: 30/06/2026
+- Labs: Motivational & Cognitive Control lab & Cognitive Neuromodulation Lab @ Donders Institute, Nijmegen.
 
-This repo is based on my 'Neuromodulation of Control Beliefs' TUS study.
+This repo is based on my 'Neuromodulation of Control Beliefs' transcranial ultrasound stimulation (TUS) study.
 
 This repository contains example scripts for TUS (sequential) simulations and creating auditory masks.
 Additionally, this repo contains example code for delivering TUS through integrating the IGT system with the FUS driving software package and simultaneously playing auditory masking sounds and recording localite marker positions in the form of a Psychopy wrapper.
 
-NOTE: DEVELOPMENT STATUS: This script is currently under active development and is provided AS IS. 
-Script may be incomplete, undergo significant changes, or contain bugs. Use at your own discretion.
+NOTE: DEVELOPMENT STATUS: The scripts in this repo are under active development and is provided AS IS. 
+Scripts may be incomplete, undergo significant changes, or contain bugs. Use at your own discretion. Never use TUS equipment to sonicate an individual without having the proper calibration files that belong to your specific TUS device.
 
 # TUS Safety
 ITRUSST sets the standards for TUS. Make sure to familiarize yourself with their work.
@@ -24,6 +23,8 @@ Important literature:
 
 # Versions
 Software in this repo requires the following:
+- PRESTUS: https://github.com/Donders-Institute/PRESTUS
+- Radboud FUS driving software: https://github.com/Donders-Institute/Radboud-FUS-driving-system-software
 - Python v3.10
 - MATLAB 2023B
 - Psychopy 2026.1.3
