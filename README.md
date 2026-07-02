@@ -1,4 +1,4 @@
-# TUS_codeshare# CtrlTUS_scripts
+# TUS_codeshare
 ## Neuromodulation of Control Beliefs - scripts
 - Author: Marwan Engels
 - Date: 30/06/2026
